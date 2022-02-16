@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fteam","\u002Fcommands\u002F[[...command]]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
